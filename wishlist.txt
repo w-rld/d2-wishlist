@@ -1,1 +1,5 @@
 dimwishlist:item=2778013407&perks=,2420895100,3513791699
+//Explosive Payload + Shoot to Loot
+//notes:broken
+dimwishlist:item=1019000888&perks=,3700496672,3038247973
+dimwishlist:item=4019668921&perks=,3700496672,3038247973
